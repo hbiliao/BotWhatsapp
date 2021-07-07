@@ -1,5 +1,5 @@
 # BotWhatsapp
-BotWhatsapp com venom
+BotWhatsapp com venom e node.js
 
 Comandos:
 npm init -y,
