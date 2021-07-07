@@ -1,6 +1,9 @@
 # BotWhatsapp
-BotWhatsapp com venom
+Bot Whatsapp with venom and node.js
 
-Comandos:
-npm init -y,
+Start:
+npm init -y 
+<br>
 npm i --save venom-bot
+<br>
+<a href="https://github.com/orkestral/venom" target="_blank">venom repository</a>
